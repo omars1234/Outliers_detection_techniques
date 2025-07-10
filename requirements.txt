@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+datetime
+plotly
+scikit-learn
+ipykernel
+imblearn
+nbformat
+ipympl
+
